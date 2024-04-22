@@ -31,6 +31,10 @@ When the manipulator wrist is moved by the programmer to teach, the movements co
 
 
 ![Robot-interpolation-PTP-LIN-CIRC](https://user-images.githubusercontent.com/36288975/201615171-d0886aaa-8220-4b0c-8a1d-3d8a5c69c76a.png)
+![WhatsApp Image 2024-04-15 at 14 31 09_0a4115d2](https://github.com/vasanthkumarch/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/167073142/47b08478-31b1-4d30-8c78-32878d699076)
+![WhatsApp Image 2024-04-15 at 14 31 09_161a6fa8](https://github.com/vasanthkumarch/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/167073142/cfdb6dfc-e1f2-4270-804d-93627029c3dd)
+![WhatsApp Image 2024-04-15 at 14 31 08_cedd0760](https://github.com/vasanthkumarch/Experiment--07-Linear-and-joint-interpolation-of-industrial-manipulator-/assets/167073142/8aacb529-4e31-4e18-a216-ede723cf9e18)
+
 
 ### Figure -01 difference between P-P , joint and linear interpolation 
 
